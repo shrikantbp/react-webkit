@@ -14,10 +14,10 @@
 # misc
 .DS_Store
 # Uncomment .env files after project setup.
-# .env
-# .env.development
-# .env.test
-# .env.production
+.env
+.env.development
+.env.test
+.env.production
 
 npm-debug.log*
 yarn-debug.log*
